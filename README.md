@@ -8,4 +8,4 @@ Read this article https://ytmusicapi.readthedocs.io/en/latest/setup.html
 
 3-) Run the application with "python3 app.py" command in the current directory.
 
-4-) And check your Youtube Music account the playlist should be there by name "My Favs"
+4-) And check your Youtube Music account! The playlist should be there by name "My Favs"
