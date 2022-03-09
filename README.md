@@ -8,6 +8,10 @@ Read this article https://ytmusicapi.readthedocs.io/en/latest/setup.html
 
 3-) Run the application with "python3 app.py" command in the current directory.
 
-4-) Answer the following questions in the terminal
+4.1-) You can create a new playlist from liked list.
 
-5-) And check your Youtube Music account! The playlist should be there!
+4.2-) You can refresh your playlist from liked list.
+
+5-) Answer the following questions in the terminal
+
+6-) And check your Youtube Music account! The playlist should be there!
