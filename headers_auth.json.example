@@ -1,0 +1,21 @@
+{
+    "accept": <put it here>,
+    "accept-encoding": <put it here>,
+    "accept-language": <put it here>,
+    "authorization": <put it here>,
+    "content-encoding": <put it here>,
+    "content-type": <put it here>,
+    "cookie": <put it here>,
+    "origin": <put it here>,
+    "referer": <put it here>,
+    "sec-fetch-dest": <put it here>,
+    "sec-fetch-mode": <put it here>,
+    "sec-fetch-site": <put it here>,
+    "sec-gpc": <put it here>,
+    "user-agent": <put it here>,
+    "x-goog-authuser": <put it here>,
+    "x-goog-visitor-id": <put it here>,
+    "x-origin": <put it here>,
+    "x-youtube-client-name": <put it here>,
+    "x-youtube-client-version": <put it here>
+}
