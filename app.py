@@ -92,12 +92,17 @@ elif refresh_or_new == "R":
     playlist_id_list = []
     
     
+    
     for current_dict in playlist_songs_dict["tracks"]:
 
         playlist_id_list.append(current_dict["videoId"])
 
+
     final_list = remove_dup(playlist_id_list=playlist_id_list,id_list=id_list)
 
-    ytmusic.add_playlist_items(playlistId=playlist_id, videoIds=final_list, duplicates=False)
+    if final_list == []:
+        print("Your playlist is up-to-date")
 
-    print("Your playlist successfully refreshed.")
+    elif final_list != []:
+        ytmusic.add_playlist_items(playlistId=playlist_id, videoIds=final_list, duplicates=False)
+        print("Your playlist successfully refreshed.")
