@@ -6,7 +6,7 @@ Read this article https://ytmusicapi.readthedocs.io/en/latest/setup.html
 
 2-) You should change the elements according to article via using "dev tools" in your browser.
 
-3-) Run the application with "python3 app.py" command in the current directory.
+3-) Run the application with `python3 app.py` command in the current directory.
 
 4.1-) You can create a new playlist from liked list.
 
