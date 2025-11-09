@@ -1,3 +1,6 @@
+**No longer maintained.**
+
+
 # Liked-List-To-PlayList
 
 Read this article https://ytmusicapi.readthedocs.io/en/latest/setup.html
